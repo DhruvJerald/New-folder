@@ -1,1 +1,2 @@
-"# New-folder" 
+"# New-folder"
+install all pics aswell
